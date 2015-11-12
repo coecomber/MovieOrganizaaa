@@ -1,0 +1,9 @@
+c:\users\joost\documents\visual studio 2015\Projects\MovieOrganizer_2Leggo\MovieOrganizer_2Leggo\bin\Debug\MovieOrganizer_2Leggo.exe.config
+c:\users\joost\documents\visual studio 2015\Projects\MovieOrganizer_2Leggo\MovieOrganizer_2Leggo\bin\Debug\MovieOrganizer_2Leggo.exe
+c:\users\joost\documents\visual studio 2015\Projects\MovieOrganizer_2Leggo\MovieOrganizer_2Leggo\bin\Debug\MovieOrganizer_2Leggo.pdb
+c:\users\joost\documents\visual studio 2015\Projects\MovieOrganizer_2Leggo\MovieOrganizer_2Leggo\obj\Debug\MovieOrganizer_2Leggo.Form1.resources
+c:\users\joost\documents\visual studio 2015\Projects\MovieOrganizer_2Leggo\MovieOrganizer_2Leggo\obj\Debug\MovieOrganizer_2Leggo.Properties.Resources.resources
+c:\users\joost\documents\visual studio 2015\Projects\MovieOrganizer_2Leggo\MovieOrganizer_2Leggo\obj\Debug\MovieOrganizer_2Leggo.csproj.GenerateResource.Cache
+c:\users\joost\documents\visual studio 2015\Projects\MovieOrganizer_2Leggo\MovieOrganizer_2Leggo\obj\Debug\MovieOrganizer_2Leggo.exe
+c:\users\joost\documents\visual studio 2015\Projects\MovieOrganizer_2Leggo\MovieOrganizer_2Leggo\obj\Debug\MovieOrganizer_2Leggo.pdb
+c:\users\joost\documents\visual studio 2015\Projects\MovieOrganizer_2Leggo\MovieOrganizer_2Leggo\obj\Debug\MovieOrganizer_2Leggo.csprojResolveAssemblyReference.cache
